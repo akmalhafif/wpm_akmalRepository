@@ -1,2 +1,2 @@
 # akmal-Repository
-Aplikasi Laporan Penjualan Barang Berbasis WEB
+Aplikasi Stock Barang Berbasis WEB
